@@ -1,0 +1,5 @@
+env: staging
+browser: chromium
+base_urls:
+  company1: https://company1.workflowpro.com
+  company2: https://company2.workflowpro.com
